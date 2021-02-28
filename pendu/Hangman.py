@@ -46,6 +46,7 @@ def hangman():
         print(' you have ', life,' life remaining !')
 
         my_list = [letter if letter in used_letters else '_' for letter in word]
+        print(lives_live[life])
         print('\n Your word : ',' '.join(my_list))
 
         gamer_letter = input('guess a letter : ').upper()
