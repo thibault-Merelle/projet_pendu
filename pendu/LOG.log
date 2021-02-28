@@ -1,0 +1,110 @@
+2021-01-20 16:48:05,814 : DEBUG : la fonction a bien été éxécutée
+2021-01-20 16:48:05,814 : INFO : info générale
+2021-01-20 16:48:05,814 : WARNING : attention !
+2021-01-20 16:48:05,814 : ERROR : une erreur est arrivée
+2021-01-20 16:48:05,814 : CRITICAL : Erreur critique
+2021-01-25 01:11:54,281 : DEBUG : la fonction a bien été éxécutée
+2021-01-25 01:11:54,282 : INFO : info générale
+2021-01-25 01:11:54,282 : WARNING : attention !
+2021-01-25 01:11:54,282 : ERROR : une erreur est arrivée
+2021-01-25 01:11:54,282 : CRITICAL : Erreur critique
+2021-01-25 01:13:22,715 : DEBUG : la fonction a bien été éxécutée
+2021-01-25 01:13:22,715 : INFO : info générale
+2021-01-25 01:13:22,715 : WARNING : attention !
+2021-01-25 01:13:22,715 : ERROR : une erreur est arrivée
+2021-01-25 01:13:22,715 : CRITICAL : Erreur critique
+2021-01-25 01:14:41,242 : DEBUG : la fonction a bien été éxécutée
+2021-01-25 01:14:41,243 : INFO : info générale
+2021-01-25 01:14:41,243 : WARNING : attention !
+2021-01-25 01:14:41,243 : ERROR : une erreur est arrivée
+2021-01-25 01:14:41,243 : CRITICAL : Erreur critique
+2021-01-25 01:15:04,268 : DEBUG : la fonction a bien été éxécutée
+2021-01-25 01:15:04,268 : INFO : info générale
+2021-01-25 01:15:04,268 : WARNING : attention !
+2021-01-25 01:15:04,268 : ERROR : une erreur est arrivée
+2021-01-25 01:15:04,268 : CRITICAL : Erreur critique
+2021-01-25 01:15:38,949 : DEBUG : la fonction a bien été éxécutée
+2021-01-25 01:15:38,949 : INFO : info générale
+2021-01-25 01:15:38,949 : WARNING : attention !
+2021-01-25 01:15:38,949 : ERROR : une erreur est arrivée
+2021-01-25 01:15:38,950 : CRITICAL : Erreur critique
+2021-01-25 01:18:01,610 : DEBUG : la fonction a bien été éxécutée
+2021-01-25 01:18:01,610 : INFO : info générale
+2021-01-25 01:18:01,610 : WARNING : attention !
+2021-01-25 01:18:01,610 : ERROR : une erreur est arrivée
+2021-01-25 01:18:01,610 : CRITICAL : Erreur critique
+2021-01-25 01:25:04,340 : DEBUG : la fonction a bien été éxécutée
+2021-01-25 01:25:04,340 : INFO : info générale
+2021-01-25 01:25:04,340 : WARNING : attention !
+2021-01-25 01:25:04,340 : ERROR : une erreur est arrivée
+2021-01-25 01:25:04,340 : CRITICAL : Erreur critique
+2021-01-25 01:26:17,734 : DEBUG : la fonction a bien été éxécutée
+2021-01-25 01:26:17,734 : INFO : info générale
+2021-01-25 01:26:17,734 : WARNING : attention !
+2021-01-25 01:26:17,734 : ERROR : une erreur est arrivée
+2021-01-25 01:26:17,734 : CRITICAL : Erreur critique
+2021-01-25 01:30:01,170 : DEBUG : la fonction a bien été éxécutée
+2021-01-25 01:30:01,170 : INFO : info générale
+2021-01-25 01:30:01,170 : WARNING : attention !
+2021-01-25 01:30:01,170 : ERROR : une erreur est arrivée
+2021-01-25 01:30:01,170 : CRITICAL : Erreur critique
+2021-01-25 01:30:12,161 : DEBUG : la fonction a bien été éxécutée
+2021-01-25 01:30:12,161 : INFO : info générale
+2021-01-25 01:30:12,161 : WARNING : attention !
+2021-01-25 01:30:12,161 : ERROR : une erreur est arrivée
+2021-01-25 01:30:12,161 : CRITICAL : Erreur critique
+2021-01-25 01:30:30,224 : DEBUG : la fonction a bien été éxécutée
+2021-01-25 01:30:30,224 : INFO : info générale
+2021-01-25 01:30:30,224 : WARNING : attention !
+2021-01-25 01:30:30,224 : ERROR : une erreur est arrivée
+2021-01-25 01:30:30,224 : CRITICAL : Erreur critique
+2021-01-25 01:34:26,791 : DEBUG : la fonction a bien été éxécutée
+2021-01-25 01:34:26,791 : INFO : info générale
+2021-01-25 01:34:26,792 : WARNING : attention !
+2021-01-25 01:34:26,792 : ERROR : une erreur est arrivée
+2021-01-25 01:34:26,792 : CRITICAL : Erreur critique
+2021-01-25 01:36:47,454 : DEBUG : la fonction a bien été éxécutée
+2021-01-25 01:36:47,454 : INFO : info générale
+2021-01-25 01:36:47,454 : WARNING : attention !
+2021-01-25 01:36:47,454 : ERROR : une erreur est arrivée
+2021-01-25 01:36:47,454 : CRITICAL : Erreur critique
+2021-01-25 01:38:09,812 : DEBUG : la fonction a bien été éxécutée
+2021-01-25 01:38:09,812 : INFO : info générale
+2021-01-25 01:38:09,812 : WARNING : attention !
+2021-01-25 01:38:09,812 : ERROR : une erreur est arrivée
+2021-01-25 01:38:09,812 : CRITICAL : Erreur critique
+2021-01-25 01:40:01,982 : DEBUG : la fonction a bien été éxécutée
+2021-01-25 01:40:01,982 : INFO : info générale
+2021-01-25 01:40:01,982 : WARNING : attention !
+2021-01-25 01:40:01,982 : ERROR : une erreur est arrivée
+2021-01-25 01:40:01,982 : CRITICAL : Erreur critique
+2021-01-25 01:41:06,209 : DEBUG : la fonction a bien été éxécutée
+2021-01-25 01:41:06,209 : INFO : info générale
+2021-01-25 01:41:06,209 : WARNING : attention !
+2021-01-25 01:41:06,209 : ERROR : une erreur est arrivée
+2021-01-25 01:41:06,209 : CRITICAL : Erreur critique
+2021-02-28 20:03:28,340 : DEBUG : la fonction a bien été éxécutée
+2021-02-28 20:03:28,340 : INFO : info générale
+2021-02-28 20:03:28,340 : WARNING : attention !
+2021-02-28 20:03:28,340 : ERROR : une erreur est arrivée
+2021-02-28 20:03:28,341 : CRITICAL : Erreur critique
+2021-02-28 20:03:41,725 : DEBUG : la fonction a bien été éxécutée
+2021-02-28 20:03:41,725 : INFO : info générale
+2021-02-28 20:03:41,725 : WARNING : attention !
+2021-02-28 20:03:41,725 : ERROR : une erreur est arrivée
+2021-02-28 20:03:41,725 : CRITICAL : Erreur critique
+2021-02-28 20:26:07,294 : DEBUG : la fonction a bien été éxécutée
+2021-02-28 20:26:07,294 : INFO : info générale
+2021-02-28 20:26:07,294 : WARNING : attention !
+2021-02-28 20:26:07,294 : ERROR : une erreur est arrivée
+2021-02-28 20:26:07,294 : CRITICAL : Erreur critique
+2021-02-28 20:26:24,914 : DEBUG : la fonction a bien été éxécutée
+2021-02-28 20:26:24,914 : INFO : info générale
+2021-02-28 20:26:24,914 : WARNING : attention !
+2021-02-28 20:26:24,914 : ERROR : une erreur est arrivée
+2021-02-28 20:26:24,914 : CRITICAL : Erreur critique
+2021-02-28 20:45:05,586 : DEBUG : la fonction a bien été éxécutée
+2021-02-28 20:45:05,586 : INFO : info générale
+2021-02-28 20:45:05,586 : WARNING : attention !
+2021-02-28 20:45:05,586 : ERROR : une erreur est arrivée
+2021-02-28 20:45:05,586 : CRITICAL : Erreur critique
