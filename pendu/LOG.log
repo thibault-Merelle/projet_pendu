@@ -108,3 +108,18 @@
 2021-02-28 20:45:05,586 : WARNING : attention !
 2021-02-28 20:45:05,586 : ERROR : une erreur est arrivée
 2021-02-28 20:45:05,586 : CRITICAL : Erreur critique
+2021-02-28 21:08:47,222 : DEBUG : la fonction a bien été éxécutée
+2021-02-28 21:08:47,222 : INFO : info générale
+2021-02-28 21:08:47,222 : WARNING : attention !
+2021-02-28 21:08:47,222 : ERROR : une erreur est arrivée
+2021-02-28 21:08:47,222 : CRITICAL : Erreur critique
+2021-02-28 21:09:14,619 : DEBUG : la fonction a bien été éxécutée
+2021-02-28 21:09:14,619 : INFO : info générale
+2021-02-28 21:09:14,619 : WARNING : attention !
+2021-02-28 21:09:14,619 : ERROR : une erreur est arrivée
+2021-02-28 21:09:14,619 : CRITICAL : Erreur critique
+2021-02-28 21:09:28,419 : DEBUG : la fonction a bien été éxécutée
+2021-02-28 21:09:28,419 : INFO : info générale
+2021-02-28 21:09:28,419 : WARNING : attention !
+2021-02-28 21:09:28,419 : ERROR : une erreur est arrivée
+2021-02-28 21:09:28,420 : CRITICAL : Erreur critique
