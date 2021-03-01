@@ -1,6 +1,7 @@
 import logging
 import random
 import sys
+from hanging_boy import lives_live
 
 
 
@@ -31,6 +32,7 @@ def get_words_files():
     word = random.choice(words)  
     word = word.upper()
     print(word)
+    logging.debug("function get_words_files success")
     return word 
 
 
@@ -38,7 +40,7 @@ def hangman():
     word = get_words_files() # lettres du mot
     word_letters = set(word)
     used_letters = set () # lettres utilisées
-    life = 6
+    life = 7
 
 
     while len(word_letters) > 0 and life > 0:
@@ -46,6 +48,7 @@ def hangman():
         print(' you have ', life,' life remaining !')
 
         my_list = [letter if letter in used_letters else '_' for letter in word]
+        print(lives_live[life])
         print('\n Your word : ',' '.join(my_list))
 
         gamer_letter = input('guess a letter : ').upper()
@@ -72,7 +75,9 @@ def hangman():
     if life == 0:
         print('Sorry, you died !')
         print('Your word was : ',word)
+        logging.debug("failure, losing ended ")
     else:
+        logging.debug("success ended file")
         print('Succes, your word was : ',word)
 
 if __name__ == '__main__':
