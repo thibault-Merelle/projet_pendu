@@ -5,7 +5,7 @@ from hanging_boy import lives_live
 
 
 logging.basicConfig(level=logging.DEBUG,
-                    filename="LOG.log",
+                    filename="LOG_hangman.log",
                     filemode="a",
                     format='%(asctime)s : %(levelname)s : %(message)s')
 
